@@ -8,29 +8,9 @@
 
 
 
-<div class="row">
-  <div class="column">
   <img src= "https://github-readme-stats.vercel.app/api/?username=ali0707&&show_icons=true&title_color=fffffff&&icon_color2acf&text_color=daf7dc&bg_color=151515" />
 
-  
-  </div>
-  <div class="column">
+
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ali0707&theme=dark&hide_langs_below=1" />
 
-  </div>
-</div>
 
-
-<style>
-.column {
-  float: left;
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
