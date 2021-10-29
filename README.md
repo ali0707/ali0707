@@ -35,7 +35,8 @@
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
 
 <a href="https://github.com/ali0707/ali0707">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali0707&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali0707&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=151515" />
+ 
 </a>
 <a href="https://github.com/ali0707/ali0707">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ali0707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
