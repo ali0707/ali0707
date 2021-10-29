@@ -34,10 +34,10 @@
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
 
-
-  <img src= "https://github-readme-stats.vercel.app/api/?username=ali0707&&show_icons=true&title_color=fffffff&&icon_color2acf&text_color=daf7dc&bg_color=151515" />
-
-
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ali0707&theme=dark&hide_langs_below=1" />
-
+<a href="https://github.com/ali0707/ali0707">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali0707&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ali0707/ali0707">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ali0707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
