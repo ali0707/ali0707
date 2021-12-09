@@ -1,7 +1,7 @@
 ### Hi there is Ali ben said  👋
 
 
-- 🔭 I’m currently working on Mobile Delivery application 
+<!-- - 🔭 I’m currently working on Mobile Delivery application  -->
 - 🌱 I’m currently learning FullStack Dev
 
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/ali-ben-said-785149147/)
