@@ -1,4 +1,10 @@
-### Hi there is Ali ben said  👋
+<!-- ### Hi there is Ali ben said  👋 -->
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>, I'm Ali Ben Said !
+
+- 👨‍💻 A Software Engineer experienced with the technologies listed in the **toolbox** below. 
+- 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
+- 🔭 Currently working on improving my programming skills!! 
+- :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
 
 
 <!-- - 🔭 I’m currently working on Mobile Delivery application  -->
