@@ -4,8 +4,8 @@
 - 👨‍💻 A Software Engineer experienced with the technologies listed in the **toolbox** below. 
 - 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
 - 🔭 Currently working on improving my programming skills!! 
-- :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
-How to reach me: [LinkedIn] (https://www.linkedin.com/in/ali-ben-said-785149147/)
+- :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍
+- How to reach me: [LinkedIn] (https://www.linkedin.com/in/ali-ben-said-785149147/)
 
 <!-- - 🔭 I’m currently working on Mobile Delivery application  -->
 <!-- - 🌱 I’m currently learning FullStack Dev
