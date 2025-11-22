@@ -6,7 +6,7 @@
 - 🔭 Currently working on improving my programming skills!! 
 - :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍
 - How to reach me: [LinkedIn] (https://www.linkedin.com/in/ali-ben-said-785149147/) 
-- mail: ali-bensaid1@hotmal.com 
+- mail: ali-bensaid1@hotmail.com 
 
 <!-- - 🔭 I’m currently working on Mobile Delivery application  -->
 <!-- - 🌱 I’m currently learning FullStack Dev
