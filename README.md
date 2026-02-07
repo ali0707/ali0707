@@ -42,6 +42,6 @@
 </a>
 <a href="https://github.com/ali0707/ali0707">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ali0707&&show_icons=true&title_color=fffffff&&icon_color2acf&text_color=daf7dc&bg_color=151515" alt="Ali's GitHub Stats" />
+
 </a>
 
